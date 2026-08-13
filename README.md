@@ -105,3 +105,5 @@ streamlit run app.py
 4. Compare all 5 models side-by-side on the **Compare All Models** tab.
 
 ## Live App
+
+https://ml-assignment-2-jsgshdjcz8s2k6kqdyv32m.streamlit.app/
